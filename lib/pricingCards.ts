@@ -23,7 +23,7 @@ const pricingCards:IPricingCard[] = [
         price: 99,
         title: "Insightful Enterprise",
         benefits: [
-            "Everything In Pro Tier, and:",
+            "Everything In Pro Tier",
             "Data-driven recommendations",
             "Customizable sales workflows",
             "Real-time alerts and notifications",

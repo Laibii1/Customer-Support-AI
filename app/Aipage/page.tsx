@@ -1,4 +1,4 @@
-"use client"
+
 import { Chatbot } from "@/components/component/chatbot";
 import Link from 'next/link';
 import Spline from '@splinetool/react-spline/next';

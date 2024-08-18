@@ -24,7 +24,7 @@ export function Chatbot() {
           <div className="flex flex-col justify-center items-center h-full">
             <Image src={logo} alt="AI" width={90} height={90} />
             <p className="text-lg text-muted-foreground mt-4">
-              Welcome to the Nexbot! Ask me please.
+              Welcome to the Nexbot&#33; Ask me please.
             </p>
           </div>
         )}
@@ -59,7 +59,7 @@ export function Chatbot() {
       >
         <div className="relative flex-1">
           <Textarea
-            placeholder="Type your message..."
+            placeholder="Type your message&#8231;&#8231;&#8231;"
             className="rounded-lg pr-12 min-h-[64px]"
             rows={1}
             value={input}

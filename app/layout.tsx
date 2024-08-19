@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Chatbot",
-  description: "A Chatbot powered by Gemini AI",
+  title: "NexBOT",
+  description: "Welcome To NexBOT",
 };
 
 export default function RootLayout({

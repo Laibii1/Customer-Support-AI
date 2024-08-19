@@ -1,6 +1,6 @@
 import { google } from "@ai-sdk/google";
 import { type CoreMessage, streamText } from "ai";
-export const runtime = 'edge';
+
 export const preferredRegion = 'fra1';
 export const maxDuration = 300;
 
